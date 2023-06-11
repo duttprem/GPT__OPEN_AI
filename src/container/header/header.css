@@ -142,8 +142,8 @@
 }
 @media screen and  (max-width: 490px){
     .gpt3__header  h1 {
-        font-size: 36px;
-        line-height: 48px;
+        font-size: 51px;
+        line-height: 51px;
     }
     .gpt3__header p{
         font-size: 14px;
@@ -155,8 +155,7 @@
 font-size: 12px;
 line-height: 16px;
     }
-    gradient__text{
-        font-size:27px;
+   
         
     
 }
