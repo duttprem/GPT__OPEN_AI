@@ -120,6 +120,7 @@
     .gpt3__header-content  h1 {
         font-size: 48px;
         line-height: 60px;
+        letter-spacing:-3px;
     }
    
     .gpt3__header  p{
@@ -144,6 +145,7 @@
     .gpt3__header  h1 {
         font-size: 51px;
         line-height: 51px;
+        letter-spacing: -4px;
     }
     .gpt3__header p{
         font-size: 14px;
